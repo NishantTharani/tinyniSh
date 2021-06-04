@@ -1,5 +1,5 @@
 # tinyniSh
-`tinyniSh` is a simple shell program written in C. It supports:
+`tinyniSh` is a simple shell program written in C.
 
 
 
