@@ -21,7 +21,7 @@ This will create a `build/` subdirectory which will, if you're on a Unix-based s
 
 Some features:
 
-- Input beginning with `#` is treated as comments and ignored
+- Input beginning with `#` is treated as a comment and ignored
 - Any instance of `$$` is expanded into the process ID of the shell itself (there is no other variable expansion)
 - `exit` to leave
 - `status` prints out either the exit status or the terminating signal of the last foreground process run by the shell
